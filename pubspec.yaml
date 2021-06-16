@@ -1,0 +1,5 @@
+name: hello_dart
+dependencies:
+    angel_framework: ^2.0.0
+environment:
+  sdk: '>=2.10.0 <3.0.0'
